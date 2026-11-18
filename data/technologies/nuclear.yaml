@@ -1,3 +1,4 @@
+name: nuclear
 carrier: uranium
 investment_eur_per_kw: 8000
 fom_percent_per_year: 1.4
